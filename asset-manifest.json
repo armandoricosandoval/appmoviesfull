@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/appmoviesfull/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/appmoviesfull/static/js/main.9c183da5.chunk.js",
+    "main.js.map": "/appmoviesfull/static/js/main.9c183da5.chunk.js.map",
+    "runtime-main.js": "/appmoviesfull/static/js/runtime-main.5d04621c.js",
+    "runtime-main.js.map": "/appmoviesfull/static/js/runtime-main.5d04621c.js.map",
+    "static/js/2.9b4226b6.chunk.js": "/appmoviesfull/static/js/2.9b4226b6.chunk.js",
+    "static/js/2.9b4226b6.chunk.js.map": "/appmoviesfull/static/js/2.9b4226b6.chunk.js.map",
+    "static/js/3.a30d4d51.chunk.js": "/appmoviesfull/static/js/3.a30d4d51.chunk.js",
+    "static/js/3.a30d4d51.chunk.js.map": "/appmoviesfull/static/js/3.a30d4d51.chunk.js.map",
+    "index.html": "/appmoviesfull/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/appmoviesfull/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9b4226b6.chunk.js.LICENSE.txt": "/appmoviesfull/static/js/2.9b4226b6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/appmoviesfull/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d04621c.js",
+    "static/js/2.9b4226b6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9c183da5.chunk.js"
+  ]
+}

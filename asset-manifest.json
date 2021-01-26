@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/appmoviesfull/static/css/main.ca1f6a48.chunk.css",
-    "main.js": "/appmoviesfull/static/js/main.4eb3d450.chunk.js",
-    "main.js.map": "/appmoviesfull/static/js/main.4eb3d450.chunk.js.map",
-    "runtime-main.js": "/appmoviesfull/static/js/runtime-main.864e4a8a.js",
-    "runtime-main.js.map": "/appmoviesfull/static/js/runtime-main.864e4a8a.js.map",
-    "static/css/2.3c328e4c.chunk.css": "/appmoviesfull/static/css/2.3c328e4c.chunk.css",
-    "static/js/2.4f452313.chunk.js": "/appmoviesfull/static/js/2.4f452313.chunk.js",
-    "static/js/2.4f452313.chunk.js.map": "/appmoviesfull/static/js/2.4f452313.chunk.js.map",
-    "static/js/3.f191520d.chunk.js": "/appmoviesfull/static/js/3.f191520d.chunk.js",
-    "static/js/3.f191520d.chunk.js.map": "/appmoviesfull/static/js/3.f191520d.chunk.js.map",
+    "main.js": "/appmoviesfull/static/js/main.759aaae9.chunk.js",
+    "main.js.map": "/appmoviesfull/static/js/main.759aaae9.chunk.js.map",
+    "runtime-main.js": "/appmoviesfull/static/js/runtime-main.b35776cc.js",
+    "runtime-main.js.map": "/appmoviesfull/static/js/runtime-main.b35776cc.js.map",
+    "static/css/2.150d169a.chunk.css": "/appmoviesfull/static/css/2.150d169a.chunk.css",
+    "static/js/2.45ae8508.chunk.js": "/appmoviesfull/static/js/2.45ae8508.chunk.js",
+    "static/js/2.45ae8508.chunk.js.map": "/appmoviesfull/static/js/2.45ae8508.chunk.js.map",
+    "static/js/3.d8906bcc.chunk.js": "/appmoviesfull/static/js/3.d8906bcc.chunk.js",
+    "static/js/3.d8906bcc.chunk.js.map": "/appmoviesfull/static/js/3.d8906bcc.chunk.js.map",
     "index.html": "/appmoviesfull/index.html",
-    "static/css/2.3c328e4c.chunk.css.map": "/appmoviesfull/static/css/2.3c328e4c.chunk.css.map",
+    "static/css/2.150d169a.chunk.css.map": "/appmoviesfull/static/css/2.150d169a.chunk.css.map",
     "static/css/main.ca1f6a48.chunk.css.map": "/appmoviesfull/static/css/main.ca1f6a48.chunk.css.map",
-    "static/js/2.4f452313.chunk.js.LICENSE.txt": "/appmoviesfull/static/js/2.4f452313.chunk.js.LICENSE.txt"
+    "static/js/2.45ae8508.chunk.js.LICENSE.txt": "/appmoviesfull/static/js/2.45ae8508.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.864e4a8a.js",
-    "static/css/2.3c328e4c.chunk.css",
-    "static/js/2.4f452313.chunk.js",
+    "static/js/runtime-main.b35776cc.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.45ae8508.chunk.js",
     "static/css/main.ca1f6a48.chunk.css",
-    "static/js/main.4eb3d450.chunk.js"
+    "static/js/main.759aaae9.chunk.js"
   ]
 }
